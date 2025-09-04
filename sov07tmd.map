@@ -4111,6 +4111,7 @@ LocalSize=5,5,93,99
 3=BadGuy3 House,ORCA,256,49,111,0,Area Guard,None,0,-1,1,1
 
 [Structures]
+1027603=Player House,GACNST,256,158,140,0,None,1,0,1,0,0,None,None,None,0,0
 1036893=BadGuy1 House,YACNST,256,66,85,0,None,1,0,1,0,0,None,None,None,1,0
 1036898=BadGuy1 House,CATRAN03,256,65,67,0,05BC8BAC,0,0,1,0,0,None,None,None,1,0
 1036899=BadGuy1 House,NAPSYB,256,95,42,0,0B5A680C,1,0,1,0,0,None,None,None,1,0
