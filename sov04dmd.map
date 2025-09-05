@@ -412,7 +412,7 @@ NodeCount=0
 Country=Russians
 TechLevel=10
 Credits=80
-IQ=0
+IQ=1
 Edge=South
 PlayerControl=yes
 Color=DarkRed
@@ -2431,7 +2431,17 @@ LocalSize=12,5,86,60
 67=YuriCountry,BRUTE,256,133,85,3,Guard,0,None,0,-1,0,1,1
 68=YuriCountry,BRUTE,256,149,69,2,Guard,0,None,0,-1,0,1,1
 
+;狙击手
+[SNIPE]
+Owner=British,French,Germans,Americans,Alliance,Russians
+RequiredHouses=British,Russians
+
+;巨炮
+[GTGCAN]
+RequiredHouses=French,Russians
+
 [Structures]
+1027113=Russians,GACNST,256,67,138,0,None,1,0,1,0,0,None,None,None,0,0
 1027114=Neutral,CAAIRP,256,102,16,0,None,0,0,1,0,0,None,None,None,0,0
 1027119=Neutral,CAWASH18,256,96,70,0,None,0,0,1,0,0,None,None,None,0,0
 1027122=Arabs,YAGGUN,256,106,15,128,07823CDC,0,0,1,0,0,None,None,None,1,0
