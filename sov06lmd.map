@@ -90,7 +90,7 @@ TechLevel=11
 
 [NATBNK]
 Name=Yuri Tank Bunker
-TechLevel=11
+Owner=Russians ; 玩家可以造坦克碉堡
 
 [DESO]
 Name=Desolater
