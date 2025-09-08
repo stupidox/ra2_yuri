@@ -4119,6 +4119,9 @@ RequiredHouses=British,Player
 [GTGCAN]
 RequiredHouses=French,Player
 
+[YURIPRRA2]
+RequiresStolenThirdTech=yes ; RequiresStolenSovietTech 尤里改，偷苏军高科改为尤里高科
+
 [Structures]
 1036892=Player House,GACNST,256,158,140,0,None,1,0,1,0,0,None,None,None,0,0
 1036893=BadGuy1 House,YACNST,256,66,85,0,None,1,0,1,0,0,None,None,None,1,0
