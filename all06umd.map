@@ -291,7 +291,7 @@ DominatorAmbientChangeRate=0.001000
 Country=Americans
 TechLevel=10
 Credits=250
-IQ=0
+IQ=1
 Edge=South
 PlayerControl=yes
 Color=DarkBlue
@@ -2558,6 +2558,11 @@ LocalSize=2,41,56,38
 11=Americans,GGI,256,87,127,2,Guard,0,None,0,-1,0,1,1
 12=Americans,ENGINEER,256,89,130,2,Guard,0,None,0,-1,0,1,1
 13=Americans,ENGINEER,256,91,130,2,Guard,0,None,0,-1,0,1,1
+
+;狙击手
+[SNIPE]
+Owner=British,French,Germans,Americans,Alliance
+RequiredHouses=British,Americans
 
 [Structures]
 1023725=Neutral,CALOND05,256,88,116,0,091F06DC,0,0,1,0,0,None,None,None,0,0

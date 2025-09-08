@@ -221,7 +221,7 @@ DominatorAmbientChangeRate=0.001000
 Country=Americans
 TechLevel=10
 Credits=150
-IQ=0
+IQ=1
 Edge=North
 PlayerControl=yes
 Color=DarkBlue
@@ -4624,6 +4624,20 @@ LocalSize=15,13,100,110
 60=YuriCountry,INIT,256,193,178,2,Guard,0,None,0,-1,0,1,1
 61=Neutral,POLARB,256,137,63,2,Area Guard,0,None,0,-1,0,1,1
 62=Neutral,POLARB,256,129,72,2,Area Guard,128,None,0,-1,0,1,1
+
+;狙击手
+[SNIPE]
+Owner=British,French,Germans,Americans,Alliance
+RequiredHouses=British,Americans
+
+;黑鹰
+[BEAG]
+Owner=British,French,Germans,Americans,Alliance
+RequiredHouses=Alliance,Americans
+
+;入侵者
+[ORCA]
+ForbiddenHouses=Alliance,Americans
 
 [Structures]
 1050320=Special,NACNST,64,82,123,0,0BE87C8C,1,0,1,0,0,None,None,None,0,0

@@ -335,7 +335,7 @@ DominatorAmbientChangeRate=0.001000
 Country=Americans
 TechLevel=10
 Credits=80
-IQ=0
+IQ=1
 Edge=South
 PlayerControl=yes
 Color=DarkBlue
@@ -3730,6 +3730,19 @@ LocalSize=2,5,115,71
 35=Neutral,CAML,256,123,12,4,Guard,0,None,0,-1,0,1,1
 36=Neutral,CAML,256,124,12,2,Guard,0,None,0,-1,0,1,1
 37=Neutral,CAML,256,124,13,2,Guard,0,None,0,-1,0,1,1
+
+;巨炮
+[GTGCAN]
+RequiredHouses=French,Americans
+
+;黑鹰
+[BEAG]
+Owner=British,French,Germans,Americans,Alliance
+RequiredHouses=Alliance,Americans
+
+;入侵者
+[ORCA]
+ForbiddenHouses=Alliance,Americans
 
 [Structures]
 1033030=YuriCountry,YACNST,256,145,35,0,None,0,0,1,0,0,None,None,None,1,0

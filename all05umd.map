@@ -306,7 +306,7 @@ DominatorAmbientChangeRate=0.001000
 Country=Player
 TechLevel=10
 Credits=100
-IQ=0
+IQ=1
 Edge=West
 PlayerControl=yes
 Color=DarkBlue
@@ -2950,6 +2950,15 @@ LocalSize=5,5,60,109
 65=Player House,GGI,256,53,98,2,Guard,128,None,0,-1,0,1,1
 66=Player House,GGI,256,54,94,4,Guard,0,None,0,-1,0,1,1
 67=Player House,GGI,256,55,87,2,Guard,64,None,0,-1,0,1,1
+
+;狙击手
+[SNIPE]
+Owner=British,French,Germans,Americans,Alliance
+RequiredHouses=British,Player
+
+;巨炮
+[GTGCAN]
+RequiredHouses=French,Player
 
 [Structures]
 1030239=Civilian House,CASYDN03,256,39,72,0,None,0,0,1,0,0,None,None,None,0,0
