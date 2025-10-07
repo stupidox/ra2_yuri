@@ -3219,6 +3219,11 @@ LocalSize=2,30,56,49
 43=BadGuy1,GGI,256,66,95,3,Guard,0,None,0,-1,0,1,1
 44=BadGuy1,GGI,256,67,95,2,Guard,0,None,0,-1,0,1,1
 
+;尤里基地加钱
+[YACNST]
+ProduceCashAmount=60
+ProduceCashDelay=100
+
 [Structures]
 1023695=Neutral,CALOND06,256,63,60,0,None,0,0,1,0,0,None,None,None,0,0
 1023696=Neutral,CARUS08,64,101,54,0,None,0,0,1,0,0,None,None,None,0,0

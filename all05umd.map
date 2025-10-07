@@ -2960,6 +2960,11 @@ RequiredHouses=British,Player
 [GTGCAN]
 RequiredHouses=French,Player
 
+;尤里基地加钱
+[YACNST]
+ProduceCashAmount=60
+ProduceCashDelay=100
+
 [Structures]
 1030239=Civilian House,CASYDN03,256,39,72,0,None,0,0,1,0,0,None,None,None,0,0
 1030240=Civilian House,CAEURO05,256,46,77,0,None,0,0,1,0,0,None,None,None,0,0

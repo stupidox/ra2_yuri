@@ -2568,6 +2568,11 @@ RequiredHouses=British,Americans
 [NABNKR]
 Prerequisite=GACNST
 
+;尤里基地加钱
+[YACNST]
+ProduceCashAmount=60
+ProduceCashDelay=100
+
 [Structures]
 1023725=Neutral,CALOND05,256,88,116,0,091F06DC,0,0,1,0,0,None,None,None,0,0
 1023726=Neutral,CALOND04,256,91,114,0,048BC38C,0,0,1,0,0,None,None,None,0,0

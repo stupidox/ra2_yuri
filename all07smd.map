@@ -4639,6 +4639,11 @@ RequiredHouses=Alliance,Americans
 [ORCA]
 ForbiddenHouses=Alliance,Americans
 
+;尤里基地加钱
+[YACNST]
+ProduceCashAmount=60
+ProduceCashDelay=100
+
 [Structures]
 1050320=Special,NACNST,64,82,123,0,0BE87C8C,1,0,1,0,0,None,None,None,0,0
 1050325=Special,NAPOWR,64,80,128,0,0BE8788C,1,0,1,0,0,None,None,None,0,0

@@ -1646,6 +1646,11 @@ RequiredHouses=French,Russians
 [YURIPRRA2]
 RequiresStolenThirdTech=yes ; RequiresStolenSovietTech 尤里改，偷苏军高科改为尤里高科
 
+;尤里基地加钱
+[YACNST]
+ProduceCashAmount=60
+ProduceCashDelay=100
+
 [Structures]
 1021956=Russians,GACNST,256,144,121,0,None,1,0,1,0,0,None,None,None,0,0
 1021957=Americans,YAPSYT,256,81,108,0,0BA3B1CC,0,0,1,0,0,None,None,None,1,0

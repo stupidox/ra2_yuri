@@ -5505,6 +5505,11 @@ ForbiddenHouses=Alliance,Russians
 [YURIPRRA2]
 RequiresStolenThirdTech=yes ; RequiresStolenSovietTech 尤里改，偷苏军高科改为尤里高科
 
+;尤里基地加钱
+[YACNST]
+ProduceCashAmount=60
+ProduceCashDelay=100
+
 [Structures]
 1052787=Russians,GACNST,256,118,59,0,None,1,0,1,0,0,None,None,None,0,0
 1052788=French,YAROCK,256,136,135,0,0D409A1C,0,0,1,0,0,None,None,None,1,0
