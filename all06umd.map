@@ -6148,6 +6148,7 @@ TaskForce=0C5FE83C
 0968FCAC=yes
 
 [Triggers]
+07134A0B=Americans,<none>,getVictory,0,1,1,1,0
 09AD534C=Americans,<none>,Movie1_Briefing,0,1,1,1,0
 09AD6A2C=Americans,<none>,Setpiece1_Limo1Arrive,1,1,1,1,0
 0F35541C=Americans,<none>,Movie1_Audio Portion,1,1,1,1,0
@@ -6225,6 +6226,7 @@ TaskForce=0C5FE83C
 05C6450C=<none>,<none>,Yuri Wave Attack 4b,1,1,1,1,0
 
 [Events]
+07134A0B=1,32,0,405
 09AD534C=1,47,0,7
 09AD6A2C=1,13,0,10
 0F35541C=1,13,0,15
@@ -6302,6 +6304,7 @@ TaskForce=0C5FE83C
 05C6450C=1,13,0,240
 
 [Actions]
+07134A0B=1,67,0,0,0,0,0,0,A
 09AD534C=3,100,0,24,0,0,0,0,A,53,2,09AD6A2C,0,0,0,0,A,53,2,0F35541C,0,0,0,0,A
 09AD6A2C=2,7,1,08EEB7DC,0,0,0,0,A,53,2,048E961C,0,0,0,0,A
 0F35541C=2,21,6,A06_p01,0,0,0,0,A,53,2,0C5B195C,0,0,0,0,A
@@ -6379,6 +6382,7 @@ TaskForce=0C5FE83C
 05C6450C=1,53,2,05C6397C,0,0,0,0,A
 
 [Tags]
+07134A0C=0,getVictory 1,07134A0B
 0883F55C=0,Detect_Leader Dead,0883F63C
 09AD51AC=0,Movie1_Briefing,09AD534C
 09AD694C=0,Setpiece1_Limo1Arrive,09AD6A2C

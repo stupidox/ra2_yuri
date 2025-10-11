@@ -13927,6 +13927,7 @@ TaskForce=0619C43C
 0D8A6EDC=yes
 
 [Triggers]
+07134A0B=Americans,<none>,getVictory,0,1,1,1,0
 0AFFC4FC=Americans,<none>,Set_WC_Time,0,1,1,1,0
 0973308C=Americans,<none>,Player_Power_Back,1,1,1,1,0
 0AFF8D8C=YuriCountry,<none>,Set_Nuke_Time,0,1,1,1,0
@@ -14305,6 +14306,7 @@ TaskForce=0619C43C
 08F07E1C=Americans,<none>,Find_MachineShop,0,1,1,1,0
 
 [Events]
+07134A0B=1,32,0,405
 0AFFC4FC=1,13,0,1
 0973308C=3,60,2,1,GAWEAT,36,0,57,58,0,0
 0AFF8D8C=1,13,0,1
@@ -14683,6 +14685,7 @@ TaskForce=0619C43C
 08F07E1C=2,28,0,12,4,0,0
 
 [Actions]
+07134A0B=1,67,0,0,0,0,0,0,A
 0AFFC4FC=2,129,11,2,0,0,0,0,95,53,2,0973308C,0,0,0,0,A
 0973308C=2,21,6,Mis_xA3_EvaWeatherOnline,0,0,0,0,A,57,0,57,0,0,0,0,A
 0AFF8D8C=4,129,11,0,0,0,0,0,70,135,0,364,0,0,0,0,NA,132,11,0,0,0,0,0,4500,38,0,0,0,0,0,0,A
@@ -15061,6 +15064,7 @@ TaskForce=0619C43C
 08F07E1C=5,17,0,64,0,0,0,0,BM,131,9,CAMACH,0,0,0,0,40,55,0,12,0,0,0,0,BM,21,6,Unit_Eva_TechMachShop,0,0,0,0,A,28,0,12,0,0,0,0,A
 
 [Tags]
+07134A0C=0,getVictory 1,07134A0B
 0D44DBEC=2,TA_Group_Stuff,095B721C
 0D4512BC=2,TB_Group_Stuff,096A2B2C
 0A9A518C=2,TC_Group_Stuff,095FDF3C
