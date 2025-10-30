@@ -3861,7 +3861,7 @@ LocalSize=5,6,102,93
 141171=TREE23
 141175=TREE23
 134160=TREE23
-130160=TREE23
+;130160=TREE23
 144175=TREE20
 144171=TREE20
 81162=LT_GEN03
@@ -5102,6 +5102,10 @@ ForbiddenHouses=Alliance,Americans
 [YACNST]
 ProduceCashAmount=60
 ProduceCashDelay=100
+
+;超时空
+[ChronoSphereSpecial]
+Chronosphere.KillOrganic=no
 
 [Structures]
 1038980=Special,CALA05,256,114,178,0,0B97578C,0,0,1,0,0,None,None,None,0,0

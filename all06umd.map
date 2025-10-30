@@ -2575,8 +2575,16 @@ ProduceCashDelay=100
 
 ;科技机器商店
 [CAMACH]
-Strength=7100
+Strength=4100
 Armor=heavy
+
+;台风潜艇
+[SUB]
+Speed=7
+
+;无畏
+[DRED]
+Speed=5
 
 [Structures]
 1023725=Neutral,CALOND05,256,88,116,0,091F06DC,0,0,1,0,0,None,None,None,0,0
@@ -6256,7 +6264,7 @@ TaskForce=0C5FE83C
 0CD2F42C=1,13,0,6
 0E2F6B1C=1,13,0,20
 0B913B6C=1,13,0,27
-0957813C=1,13,0,51 ; 1,13,0,30
+0957813C=1,13,0,30
 06C2AAFC=1,13,0,1
 0A13E03C=1,13,0,200
 06C364EC=1,11,0,0

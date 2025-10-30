@@ -131,7 +131,8 @@ ForbiddenHouses=French
 TechLevel=11
 RequiredHouses=French
 
-[TNKD]
+;[TNKD]
+[TURRETTNKD]
 Name=Tank Destroyer
 RequiredHouses=Americans
 
@@ -3670,10 +3671,10 @@ LocalSize=2,5,115,71
 2=French,YTNK,256,137,45,0,Guard,07BC6D9C,0,-1,0,-1,0,0
 3=YuriCountry,YTNK,256,142,34,128,Area Guard,None,0,-1,0,-1,1,1
 4=YuriCountry,YTNK,256,155,44,0,Area Guard,None,0,-1,0,-1,1,1
-5=Americans,TNKD,256,77,185,0,Guard,None,0,-1,0,-1,1,1
-6=Americans,TNKD,256,78,182,0,Guard,None,0,-1,0,-1,1,1
-7=Americans,TNKD,256,85,185,0,Guard,None,0,-1,0,-1,1,1
-8=Americans,TNKD,256,84,182,0,Guard,None,0,-1,0,-1,1,1
+5=Americans,TURRETTNKD,256,77,185,0,Guard,None,0,-1,0,-1,1,1 ; TNKD
+6=Americans,TURRETTNKD,256,78,182,0,Guard,None,0,-1,0,-1,1,1 ; TNKD
+7=Americans,TURRETTNKD,256,85,185,0,Guard,None,0,-1,0,-1,1,1 ; TNKD
+8=Americans,TURRETTNKD,256,84,182,0,Guard,None,0,-1,0,-1,1,1 ; TNKD
 9=French,YTNK,256,136,45,0,Guard,07BC6D9C,0,-1,0,-1,0,0
 10=French,LTNK,256,136,46,0,Guard,07BC6D9C,0,-1,0,-1,0,0
 11=French,LTNK,256,137,46,0,Guard,07BC6D9C,0,-1,0,-1,0,0
@@ -4955,22 +4956,22 @@ Group=-1
 
 [0B3C58FC]
 Name=Tank Des 1
-0=1,TNKD
+0=1,TURRETTNKD ; TNKD
 Group=-1
 
 [0B3C537C]
 Name=Tank Des 2
-0=1,TNKD
+0=1,TURRETTNKD ; TNKD
 Group=-1
 
 [0B3C4B7C]
 Name=Tank Des 3
-0=1,TNKD
+0=1,TURRETTNKD ; TNKD
 Group=-1
 
 [0B3C421C]
 Name=Tank Des 4
-0=1,TNKD
+0=1,TURRETTNKD ; TNKD
 Group=-1
 
 [0C1201EC]
@@ -5044,7 +5045,7 @@ Group=-1
 [093825AC]
 Name=_Easy Reinforcement Team 1
 0=4,GGI
-1=2,TNKD
+1=2,TURRETTNKD ; TNKD
 Group=-1
 
 [093B6DEC]

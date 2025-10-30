@@ -4035,6 +4035,9 @@ LocalSize=15,13,60,80
 94=Neutral,CIV1,256,133,122,3,Guard,64,None,0,-1,0,1,1
 95=Neutral,CIV2,256,133,125,3,Guard,96,None,0,-1,0,1,1
 
+[TURRETTNKD]
+Prerequisite=GAWEAP
+
 [Structures]
 1033207=Neutral,CAWASH06,256,95,97,0,None,0,0,1,0,0,None,None,None,0,0
 1033208=Neutral,CAWASH03,256,106,91,0,None,0,0,1,0,0,None,None,None,0,0
